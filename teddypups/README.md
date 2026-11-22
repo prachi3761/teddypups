@@ -2,7 +2,7 @@
 
 A playful, hand-drawn style website for a Dubai-based miniature puppy brand. The site is built with three plain files (`index.html`, `style.css`, `script.js`) and has six pages, a page-transition animation, working filters and a contact form that opens WhatsApp.
 
-> **Note:** This is a front-end design clone built for learning and demo purposes. All puppy photos are replaced with emoji and colour tiles, and the phone number and email are placeholders.
+>
 
 ---
 
