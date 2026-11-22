@@ -5,6 +5,7 @@ A playful, hand-drawn style website inspired by a Dubai-based miniature puppy br
 ## 🎬 Animated Website Preview
 
 ![TeddyPups Website Animation](assets/teddypups-demo.gif)
+live:-https://teddypups-pymk.vercel.app/
 
 *Watch the animated website preview, including page transitions, puppy animations and interactive elements.*
 
